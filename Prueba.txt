@@ -1,6 +1,8 @@
 <<<<<<< HEAD
-En el área de Trabajo Colaborativo Asistido por Computadora
+En el área de Trabajo Colaborativo Asistido por Computadora (CSCW), los Groupware son sistemas de información que apoyan a equipos de trabajo en la realización de una actividad colaborativa.
 =======
 Hola
 hola esta linea la agrego migue
+
+
 >>>>>>> 7767c6bf414af4a79693021e986e587207e38957
