@@ -1,4 +1,4 @@
--000Leer y citar el artículo de IEEE de la revista
+-Leer y citar el artículo de IEEE de la revista
 -¿Cómo voy a atender los frijoles elementos para el diseño y visualización del 
 awareness?
 -Hacer Mockup cxxc del mecanismo de visualización
@@ -6,13 +6,16 @@ awareness?
 soscial awareness, contextual awareness, situation awareness
 
 ###### Preguntar a dr. Luis Montanéxxxx
-1)Dvvxvxonde puedo ver la presencvvia social de una partida
+1)Donde puedo ver la presencvvia social de una partida
 2) ¿Hago una columna adicional de los porcentajes en la base de datos?
 *¿Hago el procesamiento de la info de lado de Java o C##?
-3)¿Antes de cada partida se tiene que hacer una fase de .sentrenamiento?4)Revisar presentación
+3)¿Antes de cada partida se tiene que hacer una fase de .sentrenamiento?
+4)Revisar presentación
 5)¿la información se presentará en otro espacio diferente al juego? ¿por qué? 
-6) Los elementos que dbbbbebo analizar cuando presente la información es la atención, memoria y sobrecarga
+6) Los elementos que debo analizar cuando presente la información es la atención, memoria y sobrecarga
 7)Replantear mi estado del arte en términos de los mecanismos de
 visualización
 8) ¿Qué digo de las pruebas que estoy haciendo? 
-bxcxxc
+
+
+Cotizado!
