@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 En el área de Trabajo Colaborativo Asistido por Computadora
+=======
+Hola
+hola esta linea la agrego migue
+>>>>>>> 7767c6bf414af4a79693021e986e587207e38957
