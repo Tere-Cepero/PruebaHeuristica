@@ -4,3 +4,8 @@ En el área de Trabajo Colaborativo Asistido por Computadora
 Hola
 hola esta linea la agrego migue
 >>>>>>> 7767c6bf414af4a79693021e986e587207e38957
+
+
+Para las generación eficiente del awarennes, se requieren de mecanimsos
+de visualización contruidos a partir de la selección de técnicas que brinden
+y faciliten las generación de conocimiento
