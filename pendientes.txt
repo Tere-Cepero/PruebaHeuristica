@@ -4,18 +4,20 @@ awareness?
 -Hacer Mockup cxxc del mecanismo de visualización
 -Estado del arte de técnias de visualización
 soscial awareness, contextual awareness, situation awareness
-
-###### Preguntar a dr. Luis Montanéxxxx
+aprovechando el viaje =)
+###### Preguntar a dr. Luis Montané xxxx
 1)Donde puedo ver la presencvvia social de una partida
 2) ¿Hago una columna adicional de los porcentajes en la base de datos?
-*¿Hago el procesamiento de la info de lado de Java o C##?
+*¿Hago  el procesamiento de la info de lado de Java o C##?
 3)¿Antes de cada partida se tiene que hacer una fase de .sentrenamiento?
 4)Revisar presentación
+lalalalala
 5)¿la información se presentará en otro espacio diferente al juego? ¿por qué? 
 6) Los elementos que debo analizar cuando presente la información es la atención, memoria y sobrecarga
 7)Replantear mi estado del arte en términos de los mecanismos de
 visualización
 8) ¿Qué digo de las pruebas que estoy haciendo? 
+wawawa =)
 
 
 Cotizado!
